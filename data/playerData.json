@@ -1,0 +1,10 @@
+[
+    {
+        "id": "a100394830b",
+        "name": "Klaus",
+        "password": "meinPassword",
+        "age": 21,
+        "money": 1000,
+        "luckyNumbers": [30, 45, 3]    
+    }
+]

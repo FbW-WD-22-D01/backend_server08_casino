@@ -1,9 +1,7 @@
 import express from 'express'
-import { appendFile } from 'fs'
+
 
 const app = express()
-
-
 
 
 
